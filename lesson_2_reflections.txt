@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A:  It enables tracking of versions and details through hidden files on computer.
+
+Q: How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+A:  It provides a place to collect files that belong as part of one logical commit.
