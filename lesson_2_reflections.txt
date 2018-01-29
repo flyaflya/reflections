@@ -7,3 +7,19 @@ What value do you think it offers?
 
 A:  It provides a place to collect files that belong as part of one logical commit.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You use the staging area to collect all the files modified for a logical change
+and then you commit it.
+
+Q: What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+A: Branches are great for maintaining different versions with very similar
+functionality.  For example, I can imagine using branches to make different 
+versions of my book.  They might include different chapters.
+
+Q: What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+A:  The result of merging is to accept the changes from two branches into one.
+This allows changes to different parts of a program to be done concurrently.
+It is represented to show that all commits can be traced backwards to a parent.
