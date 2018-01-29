@@ -1,0 +1,7 @@
+Reflections File for Lesson 3
+
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A:  When collaborating with others or for collaborating with yourself using multiple computers
+or to create a remote backup of your files.
+
